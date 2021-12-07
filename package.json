@@ -1,0 +1,37 @@
+{
+  "name": "@alangiacomin/js-utils-react",
+  "version": "2.0.0",
+  "description": "Javascript utilities for React",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alangiacomin/js-utils-react.git"
+  },
+  "keywords": [
+    "javascript",
+    "utilities",
+    "react"
+  ],
+  "author": {
+    "name": "Alan Giacomin",
+    "email": "alan.giacomin@gmail.com"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint --ext .jsx src/**/*.{js,jsx}",
+    "lint:watch": "esw --watch --color --ext .jsx src/**/*.{js,jsx}"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.15.7",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
