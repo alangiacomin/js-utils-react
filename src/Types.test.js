@@ -1,4 +1,4 @@
-import { Types } from './componentsHelper';
+import Types from './Types';
 
 describe('Types', () => {
   it('className', () => {

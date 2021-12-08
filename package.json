@@ -27,14 +27,22 @@
     "@babel/plugin-proposal-class-properties": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
-    "eslint": "^8.2.0",
-    "eslint-config-airbnb": "^19.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-babel": "^5.3.1",
     "eslint-plugin-react": "^7.26.0",
     "jest": "^27.3.1"
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "react": "^17.0.2"
+    "history": "^5.1.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router": "^6.0.2",
+    "redux": "^4.1.2"
   }
 }
