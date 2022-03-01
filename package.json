@@ -27,8 +27,8 @@
     "@babel/plugin-proposal-class-properties": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^18.2.1",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-react-app": "^6.0.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-babel": "^5.3.1",
@@ -36,7 +36,7 @@
     "jest": "^27.3.1"
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^0.26.0",
     "history": "^5.1.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
